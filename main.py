@@ -14,6 +14,8 @@ elif(bmi <30):
     print("Need some working out there.")
 elif(bmi < 40):
     print("Uh oh... better see a doctor.")
+elif(bmi < 50):
+    print("Yeah, that's uhh, that's not good homie.")
 else:
     print("Seriously comma need some help. You, might, be, in, a, commmmmma, soon.")
 
